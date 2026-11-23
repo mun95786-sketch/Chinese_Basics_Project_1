@@ -1,0 +1,6 @@
+{
+  "name": "기초·심화 중국어 마스터",
+  "description": "초급·중급·고급 · 단어·회화·획순 쓰기·문화 학습",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
